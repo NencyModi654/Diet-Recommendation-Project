@@ -4,24 +4,6 @@
 ✅ Step 4: Build and send the meal plan
 ✅ Step 5: Show result in frontend
 ✅ Step 6: (Optional) Collect feedback
-1. Without Training → Static Fuzzy System
-You:
-
-Manually design fuzzy membership functions
-
-Manually write fuzzy rules (e.g., IF BMI is High → Recommend Low Calorie Diet)
-
-Use your dataset only to recommend meals that match fuzzy output
-
-✅ This works well if your system is:
-
-Based on expert knowledge
-
-Meant to work with fixed logic
-
-Simple and rule-based
-
-📌 No training needed — just rule applicatio
 
 [ User Inputs ]
      ↓
